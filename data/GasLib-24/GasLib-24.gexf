@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-21">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+      <attribute id="2" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="entry03" label="entry03">
+        <attvalues>
+          <attvalue for="0" value="-100.0" />
+          <attvalue for="1" value="500.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="entry02" label="entry02">
+        <attvalues>
+          <attvalue for="0" value="-100.0" />
+          <attvalue for="1" value="400.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="N05d" label="N05d">
+        <attvalues>
+          <attvalue for="0" value="125.0" />
+          <attvalue for="1" value="200.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit05" label="exit05">
+        <attvalues>
+          <attvalue for="0" value="125.0" />
+          <attvalue for="1" value="100.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="entry01" label="entry01">
+        <attvalues>
+          <attvalue for="0" value="-200.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="N101" label="N101">
+        <attvalues>
+          <attvalue for="0" value="-150.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N01" label="N01">
+        <attvalues>
+          <attvalue for="0" value="-100.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N04" label="N04">
+        <attvalues>
+          <attvalue for="0" value="-50.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N05" label="N05">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N05a" label="N05a">
+        <attvalues>
+          <attvalue for="0" value="75.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N05c" label="N05c">
+        <attvalues>
+          <attvalue for="0" value="125.0" />
+          <attvalue for="1" value="400.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N05b" label="N05b">
+        <attvalues>
+          <attvalue for="0" value="175.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N06" label="N06">
+        <attvalues>
+          <attvalue for="0" value="250.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit01" label="exit01">
+        <attvalues>
+          <attvalue for="0" value="250.0" />
+          <attvalue for="1" value="400.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="N08" label="N08">
+        <attvalues>
+          <attvalue for="0" value="300.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N09" label="N09">
+        <attvalues>
+          <attvalue for="0" value="350.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N10" label="N10">
+        <attvalues>
+          <attvalue for="0" value="425.0" />
+          <attvalue for="1" value="400.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N13" label="N13">
+        <attvalues>
+          <attvalue for="0" value="500.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N11" label="N11">
+        <attvalues>
+          <attvalue for="0" value="425.0" />
+          <attvalue for="1" value="200.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N12" label="N12">
+        <attvalues>
+          <attvalue for="0" value="425.0" />
+          <attvalue for="1" value="100.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit02" label="exit02">
+        <attvalues>
+          <attvalue for="0" value="500.0" />
+          <attvalue for="1" value="100.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="N16" label="N16">
+        <attvalues>
+          <attvalue for="0" value="575.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit03" label="exit03">
+        <attvalues>
+          <attvalue for="0" value="700.0" />
+          <attvalue for="1" value="400.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="exit04" label="exit04">
+        <attvalues>
+          <attvalue for="0" value="700.0" />
+          <attvalue for="1" value="200.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="entry03" target="entry02" id="0" />
+      <edge source="entry02" target="N01" id="1" />
+      <edge source="N05d" target="exit05" id="2" />
+      <edge source="N05d" target="N05b" id="3" />
+      <edge source="entry01" target="N101" id="4" />
+      <edge source="N101" target="N01" id="5" />
+      <edge source="N01" target="N04" id="6" />
+      <edge source="N04" target="N05" id="7" />
+      <edge source="N05" target="N05a" id="8" />
+      <edge source="N05a" target="N05c" id="9" />
+      <edge source="N05a" target="N05d" id="10" />
+      <edge source="N05c" target="N05b" id="11" />
+      <edge source="N05b" target="N06" id="12" />
+      <edge source="N06" target="exit01" id="13" />
+      <edge source="N06" target="N08" id="14" />
+      <edge source="N08" target="N09" id="15" />
+      <edge source="N09" target="N10" id="16" />
+      <edge source="N09" target="N11" id="17" />
+      <edge source="N10" target="N13" id="18" />
+      <edge source="N13" target="N16" id="19" />
+      <edge source="N11" target="N13" id="20" />
+      <edge source="N11" target="N12" id="21" />
+      <edge source="N12" target="exit02" id="22" />
+      <edge source="N16" target="exit03" id="23" />
+      <edge source="N16" target="exit04" id="24" />
+    </edges>
+  </graph>
+</gexf>

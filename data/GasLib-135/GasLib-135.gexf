@@ -1,0 +1,1119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-21">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+      <attribute id="2" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="source_3" label="source_3">
+        <attvalues>
+          <attvalue for="0" value="23266.0" />
+          <attvalue for="1" value="15807.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="sink_22" label="sink_22">
+        <attvalues>
+          <attvalue for="0" value="22014.0" />
+          <attvalue for="1" value="15986.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_26" label="innode_26">
+        <attvalues>
+          <attvalue for="0" value="18609.0" />
+          <attvalue for="1" value="12150.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_19" label="sink_19">
+        <attvalues>
+          <attvalue for="0" value="16235.0" />
+          <attvalue for="1" value="11319.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_84" label="sink_84">
+        <attvalues>
+          <attvalue for="0" value="19679.0" />
+          <attvalue for="1" value="16224.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_85" label="sink_85">
+        <attvalues>
+          <attvalue for="0" value="20122.0" />
+          <attvalue for="1" value="16184.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_32" label="sink_32">
+        <attvalues>
+          <attvalue for="0" value="20812.0" />
+          <attvalue for="1" value="16127.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_1" label="sink_1">
+        <attvalues>
+          <attvalue for="0" value="18425.0" />
+          <attvalue for="1" value="16282.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="source_5" label="source_5">
+        <attvalues>
+          <attvalue for="0" value="19310.0" />
+          <attvalue for="1" value="12783.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="source_2" label="source_2">
+        <attvalues>
+          <attvalue for="0" value="19777.0" />
+          <attvalue for="1" value="13527.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="sink_45" label="sink_45">
+        <attvalues>
+          <attvalue for="0" value="21125.0" />
+          <attvalue for="1" value="16093.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_95" label="sink_95">
+        <attvalues>
+          <attvalue for="0" value="19142.0" />
+          <attvalue for="1" value="26980.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_99" label="sink_99">
+        <attvalues>
+          <attvalue for="0" value="18744.0" />
+          <attvalue for="1" value="25504.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_92" label="sink_92">
+        <attvalues>
+          <attvalue for="0" value="18399.0" />
+          <attvalue for="1" value="23921.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_93" label="sink_93">
+        <attvalues>
+          <attvalue for="0" value="18325.0" />
+          <attvalue for="1" value="23340.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_65" label="sink_65">
+        <attvalues>
+          <attvalue for="0" value="17818.0" />
+          <attvalue for="1" value="14870.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_24" label="sink_24">
+        <attvalues>
+          <attvalue for="0" value="18234.0" />
+          <attvalue for="1" value="22259.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_80" label="sink_80">
+        <attvalues>
+          <attvalue for="0" value="17329.0" />
+          <attvalue for="1" value="22648.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_81" label="sink_81">
+        <attvalues>
+          <attvalue for="0" value="16423.0" />
+          <attvalue for="1" value="22980.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_74" label="sink_74">
+        <attvalues>
+          <attvalue for="0" value="14959.0" />
+          <attvalue for="1" value="22266.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_90" label="sink_90">
+        <attvalues>
+          <attvalue for="0" value="23296.0" />
+          <attvalue for="1" value="25376.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_11" label="sink_11">
+        <attvalues>
+          <attvalue for="0" value="20106.0" />
+          <attvalue for="1" value="22833.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_76" label="sink_76">
+        <attvalues>
+          <attvalue for="0" value="12151.0" />
+          <attvalue for="1" value="24762.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_75" label="sink_75">
+        <attvalues>
+          <attvalue for="0" value="12024.0" />
+          <attvalue for="1" value="24660.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_83" label="sink_83">
+        <attvalues>
+          <attvalue for="0" value="12205.0" />
+          <attvalue for="1" value="24108.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_88" label="sink_88">
+        <attvalues>
+          <attvalue for="0" value="12396.0" />
+          <attvalue for="1" value="22379.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_87" label="sink_87">
+        <attvalues>
+          <attvalue for="0" value="13118.0" />
+          <attvalue for="1" value="22291.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_67" label="sink_67">
+        <attvalues>
+          <attvalue for="0" value="17052.0" />
+          <attvalue for="1" value="14431.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_98" label="sink_98">
+        <attvalues>
+          <attvalue for="0" value="11548.0" />
+          <attvalue for="1" value="23160.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_82" label="sink_82">
+        <attvalues>
+          <attvalue for="0" value="10899.0" />
+          <attvalue for="1" value="24227.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_96" label="sink_96">
+        <attvalues>
+          <attvalue for="0" value="10782.0" />
+          <attvalue for="1" value="20962.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_5" label="sink_5">
+        <attvalues>
+          <attvalue for="0" value="10870.0" />
+          <attvalue for="1" value="20711.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_60" label="sink_60">
+        <attvalues>
+          <attvalue for="0" value="17639.0" />
+          <attvalue for="1" value="20098.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_79" label="sink_79">
+        <attvalues>
+          <attvalue for="0" value="10168.0" />
+          <attvalue for="1" value="20251.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_77" label="sink_77">
+        <attvalues>
+          <attvalue for="0" value="9265.2" />
+          <attvalue for="1" value="18630.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_15" label="sink_15">
+        <attvalues>
+          <attvalue for="0" value="16227.0" />
+          <attvalue for="1" value="13688.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_73" label="sink_73">
+        <attvalues>
+          <attvalue for="0" value="8778.3" />
+          <attvalue for="1" value="17907.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_91" label="sink_91">
+        <attvalues>
+          <attvalue for="0" value="8530.9" />
+          <attvalue for="1" value="18015.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_97" label="sink_97">
+        <attvalues>
+          <attvalue for="0" value="8222.4" />
+          <attvalue for="1" value="18175.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_8" label="sink_8">
+        <attvalues>
+          <attvalue for="0" value="6957.0" />
+          <attvalue for="1" value="18938.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_86" label="sink_86">
+        <attvalues>
+          <attvalue for="0" value="8623.1" />
+          <attvalue for="1" value="16058.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_3" label="sink_3">
+        <attvalues>
+          <attvalue for="0" value="8365.5" />
+          <attvalue for="1" value="16086.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_94" label="sink_94">
+        <attvalues>
+          <attvalue for="0" value="7421.0" />
+          <attvalue for="1" value="16382.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_9" label="sink_9">
+        <attvalues>
+          <attvalue for="0" value="6847.6" />
+          <attvalue for="1" value="16656.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_7" label="sink_7">
+        <attvalues>
+          <attvalue for="0" value="9024.8" />
+          <attvalue for="1" value="14058.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_62" label="sink_62">
+        <attvalues>
+          <attvalue for="0" value="9293.8" />
+          <attvalue for="1" value="12849.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_59" label="sink_59">
+        <attvalues>
+          <attvalue for="0" value="18083.0" />
+          <attvalue for="1" value="17762.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_6" label="sink_6">
+        <attvalues>
+          <attvalue for="0" value="1495.0" />
+          <attvalue for="1" value="9273.2" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_21" label="sink_21">
+        <attvalues>
+          <attvalue for="0" value="1875.3" />
+          <attvalue for="1" value="8958.3" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_4" label="sink_4">
+        <attvalues>
+          <attvalue for="0" value="912.42" />
+          <attvalue for="1" value="9530.7" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_78" label="sink_78">
+        <attvalues>
+          <attvalue for="0" value="19873.0" />
+          <attvalue for="1" value="22711.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_2" label="sink_2">
+        <attvalues>
+          <attvalue for="0" value="20227.0" />
+          <attvalue for="1" value="22636.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_31" label="sink_31">
+        <attvalues>
+          <attvalue for="0" value="20183.0" />
+          <attvalue for="1" value="23673.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_66" label="sink_66">
+        <attvalues>
+          <attvalue for="0" value="14769.0" />
+          <attvalue for="1" value="11774.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_16" label="sink_16">
+        <attvalues>
+          <attvalue for="0" value="14432.0" />
+          <attvalue for="1" value="13257.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_24" label="innode_24">
+        <attvalues>
+          <attvalue for="0" value="14752.0" />
+          <attvalue for="1" value="11695.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_69" label="sink_69">
+        <attvalues>
+          <attvalue for="0" value="14770.0" />
+          <attvalue for="1" value="10882.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_25" label="innode_25">
+        <attvalues>
+          <attvalue for="0" value="14667.0" />
+          <attvalue for="1" value="11782.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_14" label="sink_14">
+        <attvalues>
+          <attvalue for="0" value="14039.0" />
+          <attvalue for="1" value="11981.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_70" label="sink_70">
+        <attvalues>
+          <attvalue for="0" value="14770.0" />
+          <attvalue for="1" value="10800.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_43" label="sink_43">
+        <attvalues>
+          <attvalue for="0" value="14121.0" />
+          <attvalue for="1" value="9600.6" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_44" label="sink_44">
+        <attvalues>
+          <attvalue for="0" value="13861.0" />
+          <attvalue for="1" value="9250.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_61" label="sink_61">
+        <attvalues>
+          <attvalue for="0" value="14875.0" />
+          <attvalue for="1" value="7610.9" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_10" label="sink_10">
+        <attvalues>
+          <attvalue for="0" value="14656.0" />
+          <attvalue for="1" value="7678.7" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_46" label="sink_46">
+        <attvalues>
+          <attvalue for="0" value="15094.0" />
+          <attvalue for="1" value="7647.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_33" label="sink_33">
+        <attvalues>
+          <attvalue for="0" value="9745.2" />
+          <attvalue for="1" value="11320.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_23" label="innode_23">
+        <attvalues>
+          <attvalue for="0" value="13766.0" />
+          <attvalue for="1" value="9258.7" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_54" label="sink_54">
+        <attvalues>
+          <attvalue for="0" value="11619.0" />
+          <attvalue for="1" value="9209.4" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_3" label="innode_3">
+        <attvalues>
+          <attvalue for="0" value="14825.0" />
+          <attvalue for="1" value="7541.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_57" label="sink_57">
+        <attvalues>
+          <attvalue for="0" value="13579.0" />
+          <attvalue for="1" value="6003.1" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_2" label="innode_2">
+        <attvalues>
+          <attvalue for="0" value="14908.0" />
+          <attvalue for="1" value="7528.5" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_39" label="sink_39">
+        <attvalues>
+          <attvalue for="0" value="11117.0" />
+          <attvalue for="1" value="5602.2" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_20" label="sink_20">
+        <attvalues>
+          <attvalue for="0" value="18858.0" />
+          <attvalue for="1" value="14057.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_50" label="sink_50">
+        <attvalues>
+          <attvalue for="0" value="12548.0" />
+          <attvalue for="1" value="3774.5" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_15" label="innode_15">
+        <attvalues>
+          <attvalue for="0" value="11154.0" />
+          <attvalue for="1" value="5630.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_36" label="sink_36">
+        <attvalues>
+          <attvalue for="0" value="11745.0" />
+          <attvalue for="1" value="5833.7" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_16" label="innode_16">
+        <attvalues>
+          <attvalue for="0" value="11125.0" />
+          <attvalue for="1" value="5659.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_19" label="innode_19">
+        <attvalues>
+          <attvalue for="0" value="10279.0" />
+          <attvalue for="1" value="7541.6" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_20" label="innode_20">
+        <attvalues>
+          <attvalue for="0" value="10319.0" />
+          <attvalue for="1" value="7571.8" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_21" label="innode_21">
+        <attvalues>
+          <attvalue for="0" value="11547.0" />
+          <attvalue for="1" value="9176.7" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_25" label="sink_25">
+        <attvalues>
+          <attvalue for="0" value="10250.0" />
+          <attvalue for="1" value="7632.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_22" label="innode_22">
+        <attvalues>
+          <attvalue for="0" value="11617.0" />
+          <attvalue for="1" value="9124.5" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_17" label="innode_17">
+        <attvalues>
+          <attvalue for="0" value="11089.0" />
+          <attvalue for="1" value="5535.9" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_40" label="sink_40">
+        <attvalues>
+          <attvalue for="0" value="10906.0" />
+          <attvalue for="1" value="3465.8" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_18" label="innode_18">
+        <attvalues>
+          <attvalue for="0" value="11050.0" />
+          <attvalue for="1" value="5560.1" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_58" label="sink_58">
+        <attvalues>
+          <attvalue for="0" value="10962.0" />
+          <attvalue for="1" value="3138.4" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_72" label="sink_72">
+        <attvalues>
+          <attvalue for="0" value="19055.0" />
+          <attvalue for="1" value="12838.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_5" label="innode_5">
+        <attvalues>
+          <attvalue for="0" value="10898.0" />
+          <attvalue for="1" value="3075.5" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_29" label="sink_29">
+        <attvalues>
+          <attvalue for="0" value="11298.0" />
+          <attvalue for="1" value="914.22" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_4" label="innode_4">
+        <attvalues>
+          <attvalue for="0" value="11038.0" />
+          <attvalue for="1" value="3086.4" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_27" label="innode_27">
+        <attvalues>
+          <attvalue for="0" value="11243.0" />
+          <attvalue for="1" value="847.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_64" label="sink_64">
+        <attvalues>
+          <attvalue for="0" value="11338.0" />
+          <attvalue for="1" value="16.263" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_28" label="innode_28">
+        <attvalues>
+          <attvalue for="0" value="11361.0" />
+          <attvalue for="1" value="853.08" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_47" label="sink_47">
+        <attvalues>
+          <attvalue for="0" value="9419.1" />
+          <attvalue for="1" value="12332.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_53" label="sink_53">
+        <attvalues>
+          <attvalue for="0" value="9114.0" />
+          <attvalue for="1" value="10635.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_52" label="sink_52">
+        <attvalues>
+          <attvalue for="0" value="8409.9" />
+          <attvalue for="1" value="9215.5" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_26" label="sink_26">
+        <attvalues>
+          <attvalue for="0" value="9930.9" />
+          <attvalue for="1" value="7761.2" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_34" label="sink_34">
+        <attvalues>
+          <attvalue for="0" value="10051.0" />
+          <attvalue for="1" value="7341.4" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_11" label="innode_11">
+        <attvalues>
+          <attvalue for="0" value="8462.3" />
+          <attvalue for="1" value="9173.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_12" label="innode_12">
+        <attvalues>
+          <attvalue for="0" value="8481.3" />
+          <attvalue for="1" value="9226.1" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_28" label="sink_28">
+        <attvalues>
+          <attvalue for="0" value="8869.3" />
+          <attvalue for="1" value="8303.5" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_29" label="innode_29">
+        <attvalues>
+          <attvalue for="0" value="8426.9" />
+          <attvalue for="1" value="9130.2" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_49" label="sink_49">
+        <attvalues>
+          <attvalue for="0" value="7026.7" />
+          <attvalue for="1" value="9363.7" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_13" label="innode_13">
+        <attvalues>
+          <attvalue for="0" value="6300.9" />
+          <attvalue for="1" value="8472.1" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_18" label="sink_18">
+        <attvalues>
+          <attvalue for="0" value="18957.0" />
+          <attvalue for="1" value="12697.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_14" label="innode_14">
+        <attvalues>
+          <attvalue for="0" value="6283.2" />
+          <attvalue for="1" value="8544.3" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_37" label="sink_37">
+        <attvalues>
+          <attvalue for="0" value="6684.9" />
+          <attvalue for="1" value="10514.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_41" label="sink_41">
+        <attvalues>
+          <attvalue for="0" value="6556.2" />
+          <attvalue for="1" value="9237.9" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_27" label="sink_27">
+        <attvalues>
+          <attvalue for="0" value="4464.8" />
+          <attvalue for="1" value="10268.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_51" label="sink_51">
+        <attvalues>
+          <attvalue for="0" value="6227.0" />
+          <attvalue for="1" value="8514.3" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_6" label="innode_6">
+        <attvalues>
+          <attvalue for="0" value="5234.3" />
+          <attvalue for="1" value="6918.6" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_30" label="innode_30">
+        <attvalues>
+          <attvalue for="0" value="4957.4" />
+          <attvalue for="1" value="7662.6" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_7" label="innode_7">
+        <attvalues>
+          <attvalue for="0" value="5089.8" />
+          <attvalue for="1" value="6992.1" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="innode_8" label="innode_8">
+        <attvalues>
+          <attvalue for="0" value="5174.2" />
+          <attvalue for="1" value="7037.3" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_12" label="sink_12">
+        <attvalues>
+          <attvalue for="0" value="18659.0" />
+          <attvalue for="1" value="12213.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_9" label="innode_9">
+        <attvalues>
+          <attvalue for="0" value="4887.1" />
+          <attvalue for="1" value="7632.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_56" label="sink_56">
+        <attvalues>
+          <attvalue for="0" value="4048.1" />
+          <attvalue for="1" value="7240.1" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_10" label="innode_10">
+        <attvalues>
+          <attvalue for="0" value="4877.4" />
+          <attvalue for="1" value="7698.5" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_48" label="sink_48">
+        <attvalues>
+          <attvalue for="0" value="2809.7" />
+          <attvalue for="1" value="7549.1" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="innode_1" label="innode_1">
+        <attvalues>
+          <attvalue for="0" value="2366.3" />
+          <attvalue for="1" value="4313.1" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="sink_71" label="sink_71">
+        <attvalues>
+          <attvalue for="0" value="2314.8" />
+          <attvalue for="1" value="4258.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="source_4" label="source_4">
+        <attvalues>
+          <attvalue for="0" value="2263.2" />
+          <attvalue for="1" value="4203.9" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="sink_68" label="sink_68">
+        <attvalues>
+          <attvalue for="0" value="3761.0" />
+          <attvalue for="1" value="10321.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_17" label="sink_17">
+        <attvalues>
+          <attvalue for="0" value="3052.4" />
+          <attvalue for="1" value="11541.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_35" label="sink_35">
+        <attvalues>
+          <attvalue for="0" value="1277.9" />
+          <attvalue for="1" value="12378.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_30" label="sink_30">
+        <attvalues>
+          <attvalue for="0" value="2761.0" />
+          <attvalue for="1" value="11093.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_63" label="sink_63">
+        <attvalues>
+          <attvalue for="0" value="2492.8" />
+          <attvalue for="1" value="11245.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_38" label="sink_38">
+        <attvalues>
+          <attvalue for="0" value="3306.9" />
+          <attvalue for="1" value="9975.9" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_23" label="sink_23">
+        <attvalues>
+          <attvalue for="0" value="2737.8" />
+          <attvalue for="1" value="7703.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_89" label="sink_89">
+        <attvalues>
+          <attvalue for="0" value="1050.4" />
+          <attvalue for="1" value="8088.4" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_55" label="sink_55">
+        <attvalues>
+          <attvalue for="0" value="1003.5" />
+          <attvalue for="1" value="8258.8" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="sink_13" label="sink_13">
+        <attvalues>
+          <attvalue for="0" value="57.983" />
+          <attvalue for="1" value="8154.5" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="source_1" label="source_1">
+        <attvalues>
+          <attvalue for="0" value="678.95" />
+          <attvalue for="1" value="8491.1" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="sink_42" label="sink_42">
+        <attvalues>
+          <attvalue for="0" value="12016.0" />
+          <attvalue for="1" value="24889.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="source_6" label="source_6">
+        <attvalues>
+          <attvalue for="0" value="5164.3" />
+          <attvalue for="1" value="6963.4" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="source_3" target="sink_22" id="0" />
+      <edge source="sink_22" target="sink_45" id="1" />
+      <edge source="innode_26" target="sink_19" id="2" />
+      <edge source="sink_84" target="sink_85" id="3" />
+      <edge source="sink_84" target="sink_1" id="4" />
+      <edge source="sink_85" target="sink_32" id="5" />
+      <edge source="sink_1" target="sink_59" id="6" />
+      <edge source="source_5" target="source_2" id="7" />
+      <edge source="source_5" target="sink_72" id="8" />
+      <edge source="source_2" target="sink_20" id="9" />
+      <edge source="sink_45" target="sink_32" id="10" />
+      <edge source="sink_95" target="sink_99" id="11" />
+      <edge source="sink_99" target="sink_92" id="12" />
+      <edge source="sink_92" target="sink_93" id="13" />
+      <edge source="sink_93" target="sink_24" id="14" />
+      <edge source="sink_65" target="sink_1" id="15" />
+      <edge source="sink_65" target="sink_67" id="16" />
+      <edge source="sink_24" target="sink_80" id="17" />
+      <edge source="sink_24" target="sink_78" id="18" />
+      <edge source="sink_80" target="sink_81" id="19" />
+      <edge source="sink_81" target="sink_74" id="20" />
+      <edge source="sink_74" target="sink_60" id="21" />
+      <edge source="sink_90" target="sink_11" id="22" />
+      <edge source="sink_11" target="sink_2" id="23" />
+      <edge source="sink_11" target="sink_31" id="24" />
+      <edge source="sink_76" target="sink_75" id="25" />
+      <edge source="sink_75" target="sink_83" id="26" />
+      <edge source="sink_75" target="sink_42" id="27" />
+      <edge source="sink_83" target="sink_88" id="28" />
+      <edge source="sink_88" target="sink_87" id="29" />
+      <edge source="sink_88" target="sink_98" id="30" />
+      <edge source="sink_88" target="sink_96" id="31" />
+      <edge source="sink_87" target="sink_74" id="32" />
+      <edge source="sink_67" target="sink_15" id="33" />
+      <edge source="sink_98" target="sink_82" id="34" />
+      <edge source="sink_96" target="sink_5" id="35" />
+      <edge source="sink_96" target="sink_79" id="36" />
+      <edge source="sink_60" target="sink_24" id="37" />
+      <edge source="sink_79" target="sink_77" id="38" />
+      <edge source="sink_77" target="sink_73" id="39" />
+      <edge source="sink_73" target="sink_86" id="40" />
+      <edge source="sink_91" target="sink_73" id="41" />
+      <edge source="sink_91" target="sink_97" id="42" />
+      <edge source="sink_97" target="sink_8" id="43" />
+      <edge source="sink_86" target="sink_3" id="44" />
+      <edge source="sink_86" target="sink_7" id="45" />
+      <edge source="sink_3" target="sink_94" id="46" />
+      <edge source="sink_94" target="sink_9" id="47" />
+      <edge source="sink_7" target="sink_62" id="48" />
+      <edge source="sink_59" target="sink_60" id="49" />
+      <edge source="sink_6" target="sink_21" id="50" />
+      <edge source="sink_21" target="sink_55" id="51" />
+      <edge source="sink_4" target="sink_6" id="52" />
+      <edge source="sink_78" target="sink_11" id="53" />
+      <edge source="sink_66" target="sink_15" id="54" />
+      <edge source="sink_66" target="sink_19" id="55" />
+      <edge source="sink_66" target="sink_16" id="56" />
+      <edge source="sink_66" target="innode_24" id="57" />
+      <edge source="sink_66" target="innode_25" id="58" />
+      <edge source="innode_24" target="sink_69" id="59" />
+      <edge source="sink_69" target="sink_70" id="60" />
+      <edge source="innode_25" target="sink_14" id="61" />
+      <edge source="sink_14" target="sink_33" id="62" />
+      <edge source="sink_70" target="sink_43" id="63" />
+      <edge source="sink_43" target="sink_44" id="64" />
+      <edge source="sink_44" target="sink_61" id="65" />
+      <edge source="sink_44" target="innode_23" id="66" />
+      <edge source="sink_61" target="sink_10" id="67" />
+      <edge source="sink_61" target="sink_46" id="68" />
+      <edge source="sink_61" target="innode_2" id="69" />
+      <edge source="sink_61" target="innode_3" id="70" />
+      <edge source="sink_33" target="sink_54" id="71" />
+      <edge source="sink_33" target="sink_47" id="72" />
+      <edge source="sink_33" target="sink_53" id="73" />
+      <edge source="innode_23" target="sink_54" id="74" />
+      <edge source="sink_54" target="innode_21" id="75" />
+      <edge source="sink_54" target="innode_22" id="76" />
+      <edge source="innode_3" target="sink_57" id="77" />
+      <edge source="sink_57" target="sink_39" id="78" />
+      <edge source="innode_2" target="sink_39" id="79" />
+      <edge source="sink_39" target="sink_50" id="80" />
+      <edge source="sink_39" target="innode_19" id="81" />
+      <edge source="sink_39" target="innode_20" id="82" />
+      <edge source="sink_39" target="innode_15" id="83" />
+      <edge source="sink_39" target="innode_16" id="84" />
+      <edge source="sink_39" target="innode_17" id="85" />
+      <edge source="sink_39" target="innode_18" id="86" />
+      <edge source="sink_20" target="sink_72" id="87" />
+      <edge source="sink_20" target="sink_65" id="88" />
+      <edge source="innode_15" target="sink_36" id="89" />
+      <edge source="innode_16" target="sink_36" id="90" />
+      <edge source="innode_21" target="sink_25" id="91" />
+      <edge source="sink_25" target="sink_26" id="92" />
+      <edge source="sink_25" target="sink_34" id="93" />
+      <edge source="sink_25" target="innode_19" id="94" />
+      <edge source="sink_25" target="innode_20" id="95" />
+      <edge source="innode_22" target="sink_25" id="96" />
+      <edge source="innode_17" target="sink_40" id="97" />
+      <edge source="sink_40" target="sink_58" id="98" />
+      <edge source="innode_18" target="sink_40" id="99" />
+      <edge source="sink_58" target="innode_4" id="100" />
+      <edge source="sink_58" target="innode_5" id="101" />
+      <edge source="innode_5" target="sink_29" id="102" />
+      <edge source="sink_29" target="innode_27" id="103" />
+      <edge source="sink_29" target="innode_28" id="104" />
+      <edge source="innode_4" target="sink_29" id="105" />
+      <edge source="innode_27" target="sink_64" id="106" />
+      <edge source="innode_28" target="sink_64" id="107" />
+      <edge source="sink_47" target="sink_62" id="108" />
+      <edge source="sink_53" target="sink_52" id="109" />
+      <edge source="sink_52" target="sink_49" id="110" />
+      <edge source="sink_52" target="innode_13" id="111" />
+      <edge source="sink_52" target="innode_14" id="112" />
+      <edge source="sink_52" target="innode_11" id="113" />
+      <edge source="sink_52" target="innode_12" id="114" />
+      <edge source="sink_52" target="innode_29" id="115" />
+      <edge source="sink_26" target="innode_11" id="116" />
+      <edge source="sink_26" target="innode_12" id="117" />
+      <edge source="sink_26" target="sink_28" id="118" />
+      <edge source="sink_28" target="innode_29" id="119" />
+      <edge source="sink_49" target="sink_37" id="120" />
+      <edge source="sink_49" target="sink_41" id="121" />
+      <edge source="sink_18" target="sink_72" id="122" />
+      <edge source="sink_41" target="sink_27" id="123" />
+      <edge source="sink_41" target="sink_51" id="124" />
+      <edge source="sink_27" target="sink_68" id="125" />
+      <edge source="sink_51" target="innode_6" id="126" />
+      <edge source="sink_51" target="innode_30" id="127" />
+      <edge source="sink_51" target="innode_13" id="128" />
+      <edge source="sink_51" target="innode_14" id="129" />
+      <edge source="innode_30" target="innode_7" id="130" />
+      <edge source="innode_30" target="innode_8" id="131" />
+      <edge source="sink_12" target="sink_18" id="132" />
+      <edge source="sink_12" target="innode_26" id="133" />
+      <edge source="innode_9" target="sink_56" id="134" />
+      <edge source="innode_9" target="innode_30" id="135" />
+      <edge source="sink_56" target="sink_48" id="136" />
+      <edge source="sink_56" target="innode_1" id="137" />
+      <edge source="innode_10" target="sink_56" id="138" />
+      <edge source="innode_10" target="innode_30" id="139" />
+      <edge source="sink_48" target="sink_23" id="140" />
+      <edge source="sink_48" target="sink_89" id="141" />
+      <edge source="sink_71" target="source_4" id="142" />
+      <edge source="sink_71" target="innode_1" id="143" />
+      <edge source="sink_68" target="sink_17" id="144" />
+      <edge source="sink_68" target="sink_30" id="145" />
+      <edge source="sink_68" target="sink_38" id="146" />
+      <edge source="sink_17" target="sink_35" id="147" />
+      <edge source="sink_63" target="sink_30" id="148" />
+      <edge source="sink_38" target="sink_21" id="149" />
+      <edge source="sink_23" target="sink_21" id="150" />
+      <edge source="sink_89" target="sink_55" id="151" />
+      <edge source="sink_55" target="sink_13" id="152" />
+      <edge source="sink_55" target="source_1" id="153" />
+      <edge source="source_6" target="innode_6" id="154" />
+      <edge source="source_6" target="innode_7" id="155" />
+      <edge source="source_6" target="innode_8" id="156" />
+    </edges>
+  </graph>
+</gexf>

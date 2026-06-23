@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-21">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+      <attribute id="2" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="entry01" label="entry01">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="entry03" label="entry03">
+        <attvalues>
+          <attvalue for="0" value="200.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="N01" label="N01">
+        <attvalues>
+          <attvalue for="0" value="400.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N02" label="N02">
+        <attvalues>
+          <attvalue for="0" value="600.0" />
+          <attvalue for="1" value="100.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="entry02" label="entry02">
+        <attvalues>
+          <attvalue for="0" value="600.0" />
+          <attvalue for="1" value="-300.0" />
+          <attvalue for="2" value="green" />
+        </attvalues>
+      </node>
+      <node id="N03" label="N03">
+        <attvalues>
+          <attvalue for="0" value="600.0" />
+          <attvalue for="1" value="-100.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit01" label="exit01">
+        <attvalues>
+          <attvalue for="0" value="600.0" />
+          <attvalue for="1" value="300.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="N04" label="N04">
+        <attvalues>
+          <attvalue for="0" value="800.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="N05" label="N05">
+        <attvalues>
+          <attvalue for="0" value="1000.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="gray" />
+        </attvalues>
+      </node>
+      <node id="exit02" label="exit02">
+        <attvalues>
+          <attvalue for="0" value="1141.0" />
+          <attvalue for="1" value="141.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+      <node id="exit03" label="exit03">
+        <attvalues>
+          <attvalue for="0" value="1141.0" />
+          <attvalue for="1" value="-141.0" />
+          <attvalue for="2" value="red" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="entry01" target="entry03" id="0" />
+      <edge source="entry03" target="N01" id="1" />
+      <edge source="N01" target="N02" id="2" />
+      <edge source="N01" target="N03" id="3" />
+      <edge source="N02" target="exit01" id="4" />
+      <edge source="N02" target="N04" id="5" />
+      <edge source="entry02" target="N03" id="6" />
+      <edge source="N03" target="N04" id="7" />
+      <edge source="N04" target="N05" id="8" />
+      <edge source="N05" target="exit02" id="9" />
+      <edge source="N05" target="exit03" id="10" />
+    </edges>
+  </graph>
+</gexf>
